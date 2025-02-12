@@ -5,10 +5,11 @@
 
 print("\nEjercicio 1: Imprimir mensajes")
 print("Escribe un programa que imprima tu nombre y tu ciudad en líneas separadas.")
-
+nombre = "Jorge"
+ciudad = "Santiago"
 ### Completa aquí
-print("Jorge")
-print("Santiago")
+print(nombre)
+print(ciudad)
 print("--------------")
 
 print("\nEjercicio 2: Muestra los tipos de datos de las siguientes variables:")
